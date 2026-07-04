@@ -1,5 +1,8 @@
 ﻿# TBJ.Integrations.MF.KSeF
 
+[![build](https://github.com/tbudaj/TBJ.Integrations.MF.KSeF/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/tbudaj/TBJ.Integrations.MF.KSeF/actions/workflows/build-and-test.yml)
+[![NuGet](https://img.shields.io/nuget/v/TBJ.Integrations.MF.KSeF)](https://www.nuget.org/packages/TBJ.Integrations.MF.KSeF)
+
 Biblioteka klienta .NET 8, 9, 10 dla **KSeF API v2** (Krajowy System e-Faktur, Ministerstwo Finansów).
 
 Projekt jest wzorowany na `TBJ.Integrations.NFZ.UmwApi` i dostarcza typowanych abstrakcji do komunikacji z KSeF: uwierzytelnianie, sesje wystawiania faktur (online i batch), wyszukiwanie/pobieranie faktur oraz eksporty.
